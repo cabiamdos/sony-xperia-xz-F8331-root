@@ -33,7 +33,8 @@ This will unlock the bootloader and erase all your data. After that go to settin
 
 # Step 2: Flash the firmware (in case you have other build version)
 In case you don't have the same firmware vesion you need to flash this one. Settings -> system -> about phone -> build compilation
-to check the compilation number. We will use the 41.3.A.2.192 and make sure you have that one
+to check the compilation number. We will use the 41.3.A.2.192 and make sure you have that one.
+You can download the same firmware as I am using from here (https://send.now/dcuvgd3kpj63) or the zip file you can find also on this repository.
 
 ![](images/2025-03-19-23-18-55.png)
 
